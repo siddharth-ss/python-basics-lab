@@ -76,6 +76,18 @@ python -m unittest -v
 
 The included tests verify the lesson collection and ensure that each lesson contains the required content and executable example.
 
+## Suggested Learning Workflow
+
+For each lesson, use this short practice loop to build understanding:
+
+1. **Run it once** without changing the example so you can see the expected output.
+2. **Predict a result** before running it again—for example, what a changed variable or list item will print.
+3. **Change one thing** in the example and rerun the lesson to observe the difference.
+4. **Explain the result** in your own words, especially how the output follows from the code.
+5. **Try the practice challenge** only after working through the earlier concepts.
+
+Keep experiments small and restore your example when you are ready to move on. For the file-handling lesson, follow the displayed pattern in a test folder if you decide to try writing files yourself.
+
 ## Purpose
 
 This project is intended as a practical way to explore Python fundamentals through experimentation rather than only reading theory.
